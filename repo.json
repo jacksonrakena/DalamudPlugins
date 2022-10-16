@@ -3,7 +3,7 @@
     "Author": "Abyssal",
     "Name": "Patched Discord Rich Presence",
     "Description": "A plugin that updates your Discord status with your XIV status.",
-    "InternalName": "Dalamud.RichPresence",
+    "InternalName": "Abyssal.RichPresence",
     "AssemblyVersion": "2.0.0.6",
     "RepoUrl": "https://github.com/jacksonrakena/Dalamud.RichPresence",
     "ApplicableVersion": "any",
@@ -15,8 +15,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1661392900,
     "DownloadCount": 29948,
-    "DownloadLinkInstall": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.0-r2/Dalamud.RichPresence.zip",
-    "DownloadLinkTesting": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.0-r2/Dalamud.RichPresence.zip",
-    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.0-r2/Dalamud.RichPresence.zip"
+    "DownloadLinkInstall": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.1/1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.1/1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.1/1.0.1.zip"
   }
 ]
