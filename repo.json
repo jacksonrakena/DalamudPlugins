@@ -1,22 +1,22 @@
 [
   {
-    "Author": "Abyssal",
-    "Name": "Patched Discord Rich Presence",
-    "Description": "A plugin that updates your Discord status with your XIV status.",
+    "Author": "abyssal",
+    "Name": "Discord Rich Presence",
+    "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
+    "Punchline": "Show your zone, job, level, name, and world in your Discord status",
     "InternalName": "Abyssal.RichPresence",
-    "AssemblyVersion": "2.0.0.9",
-    "RepoUrl": "https://github.com/jacksonrakena/Dalamud.RichPresence",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/jacksonrakena/Dalamud.RichPresence",
+    "Changelog": "API 7 compatibility",
     "Tags": [
-      "discord"
+      "Discord"
     ],
-    "DalamudApiLevel": 7,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1661394000,
-    "DownloadCount": 29948,
-    "DownloadLinkInstall": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.5/1.0.5.zip",
-    "DownloadLinkTesting": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.5/1.0.5.zip",
-    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.5/1.0.5.zip"
+    "LastUpdated": 1665961598,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/1.0.5/1.0.5.zip",
+    "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/1.0.5/1.0.5.zip",
+    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/1.0.5/1.0.5.zip"
   }
 ]
