@@ -21,6 +21,10 @@ Edits to this repository will automatically regenerate the plugin manifiest at h
 
 When an update is available, you will be able to click the "Update plugins" button on the "Plugin Installer" accessed by typing `/xlplugins` in the chat and pressing enter.
 
+## Contributions
+The automated build scripts and design for this repository is heavily based on [LeonBlade's upstream](https://github.com/LeonBlade/DalamudPlugins).  
+This project is instead hosted on Cloudflare Pages with caching disabled, instead of pulling directly from GitHub.
+
 ## Discord
 
 Feel free to join my Discord server if you need help.
