@@ -13,10 +13,10 @@
     "DalamudApiLevel": 7,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1661392900,
+    "LastUpdated": 1661393000,
     "DownloadCount": 29948,
-    "DownloadLinkInstall": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.1/1.0.1.zip",
-    "DownloadLinkTesting": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.1/1.0.1.zip",
-    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.1/1.0.1.zip"
+    "DownloadLinkInstall": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.2/1.0.2.zip",
+    "DownloadLinkTesting": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.2/1.0.2.zip",
+    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Dalamud.RichPresence/releases/download/1.0.2/1.0.2.zip"
   }
 ]
