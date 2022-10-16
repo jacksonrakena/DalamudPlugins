@@ -1,8 +1,8 @@
 [
   {
     "Author": "abyssal",
-    "Name": "Discord Rich Presence",
-    "Description": "This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
+    "Name": "Patched Discord Rich Presence",
+    "Description": "[Patched for 6.21] This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
     "Punchline": "Show your zone, job, level, name, and world in your Discord status",
     "InternalName": "Abyssal.RichPresence",
     "ApplicableVersion": "any",
@@ -13,10 +13,10 @@
     ],
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1665961598,
-    "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/1.0.5/1.0.5.zip",
-    "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/1.0.5/1.0.5.zip",
-    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/1.0.5/1.0.5.zip"
+    "LastUpdated": 1665964738,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/2.0.0.10/2.0.0.10.zip",
+    "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/2.0.0.10/2.0.0.10.zip",
+    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/2.0.0.10/2.0.0.10.zip"
   }
 ]
