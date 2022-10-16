@@ -3,7 +3,7 @@
     "Author": "Abyssal",
     "Name": "Patched Discord Rich Presence",
     "Description": "A plugin that updates your Discord status with your XIV status.",
-    "InternalName": "PatchedDiscordRichPresence",
+    "InternalName": "Dalamud.RichPresence",
     "AssemblyVersion": "2.0.0.6",
     "RepoUrl": "https://github.com/jacksonrakena/Dalamud.RichPresence",
     "ApplicableVersion": "any",
