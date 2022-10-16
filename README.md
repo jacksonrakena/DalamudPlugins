@@ -1,5 +1,5 @@
-# Dalamud Plugins
-Contains the repository JSON file for my Dalamud Plugins for third party plugin support.
+# Jackson's XIV Plugin Host
+Contains the repository JSON file for my Dalamud plugins for third party plugin support.
 
 ## How to use
 
@@ -8,39 +8,21 @@ Contains the repository JSON file for my Dalamud Plugins for third party plugin 
 * **Be sure that "Enable in-game features" is on in the launcher settings to access in-game commands and features!**
 * Access Dalamud's settings by typing `/xlsettings` in the chat window and pressing enter.
 * Click on the "Experimental" tab.
-* Copy and Paste in the following URL into one of the blank inputs under the "Custom Plugin Repositories" section: https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json
+* Copy and Paste in the following URL into one of the blank inputs under the "Custom Plugin Repositories" section:  
+https://xiv-plugins.animalswithcoolhats.com
 * Click the "+" button to add it to the list.
 * Check the "Enabled" box for your new entry.
 * Click "Save and Close" at the bottom.
 
-## NOTE: Please do not enable "Get plugin testing builds" unless needed! Absolutely under no conditions enable Dalamud Staging or it will prevent the plugin system from loading!
-
-![Example of what it should look like](https://i.imgur.com/5X1GTFJ.png)
-
-From here, you can now install my plugins from within the game by typing `/xlplugins` in the chat and hitting enter.
-Now, just select one of my plugins you wish to install like normal, and click "Install".
-All of my plugins are tagged with my username "LeonBlade", so you can enter that in the search field to see all of the plugins I've created.
-
-![Plugin Installer example](https://i.imgur.com/nGres6J.png)
+## Plugin Releases
+Edits to this repository will automatically regenerate the plugin manifiest at https://xiv-plugins.animalswithcoolhats.com.
 
 ## Updating Plugins
 
 When an update is available, you will be able to click the "Update plugins" button on the "Plugin Installer" accessed by typing `/xlplugins` in the chat and pressing enter.
 
-## My Plugins
-
-Below is a list of the plugins that are available in this repo:
-
-* [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)
-* [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)
-
 ## Discord
 
-Please use the "Leon's Tools" category channels as needed.
+Feel free to join my Discord server if you need help.
 
-https://discord.com/invite/crystallinemeans
-
-## Donations
-**Ko-Fi:** https://ko-fi.com/LeonBlade
-
-**Patreon:** https://patreon.com/LeonBlade
+https://discord.gg/KtFHJnnzPJ
