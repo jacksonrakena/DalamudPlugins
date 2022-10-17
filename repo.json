@@ -5,6 +5,7 @@
     "Description": "[Patched for 6.21] This plugin allows you to show your zone, job, level, name, and world in your Discord status.",
     "Punchline": "Show your zone, job, level, name, and world in your Discord status",
     "InternalName": "Abyssal.RichPresence",
+    "AssemblyVersion": "2.0.0.10",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/jacksonrakena/Dalamud.RichPresence",
     "Changelog": "API 7 compatibility",
