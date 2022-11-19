@@ -26,7 +26,7 @@
     "Description": "Alert your phone when your queue pops.",
     "Punchline": "Alert your phone when your queue pops.",
     "InternalName": "RemoteQueuePop",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.1",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop",
     "Changelog": "Initial release",
@@ -37,8 +37,8 @@
     "IsTestingExclusive": "False",
     "LastUpdated": 1665964910,
     "DownloadCount": 92516,
-    "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.0/RemoteQueuePop.zip",
-    "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.0/RemoteQueuePop.zip",
-    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.0/RemoteQueuePop.zip"
+    "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.1/1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.1/1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.1/1.0.1.zip"
   }
 ]
