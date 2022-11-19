@@ -19,5 +19,26 @@
     "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/2.0.0.12/2.0.0.12.zip",
     "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/2.0.0.12/2.0.0.12.zip",
     "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RichPresence/releases/download/2.0.0.12/2.0.0.12.zip"
+  },
+  {
+    "Author": "abyssal",
+    "Name": "Remote Queue Pop",
+    "Description": "Alert your phone when your queue pops.",
+    "Punchline": "Alert your phone when your queue pops.",
+    "InternalName": "RemoteQueuePop",
+    "AssemblyVersion": "1.0.0",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop",
+    "Changelog": "Initial release",
+    "Tags": [
+      "Discord"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1665964910,
+    "DownloadCount": 92516,
+    "DownloadLinkInstall": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.0/RemoteQueuePop.zip",
+    "DownloadLinkTesting": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.0/RemoteQueuePop.zip",
+    "DownloadLinkUpdate": "https://github.com/jacksonrakena/Abyssal.RemoteQueuePop/releases/download/1.0.0/RemoteQueuePop.zip"
   }
 ]
